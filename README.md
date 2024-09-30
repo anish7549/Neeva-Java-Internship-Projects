@@ -1,1 +1,1 @@
-# Neeva-Java-Internship-Projects
+# Neevas-Java-Internship-Projects
