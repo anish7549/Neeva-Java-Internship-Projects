@@ -1,0 +1,5 @@
+Laptop,50000.0
+Smartphone,30000.0
+Headphones,1500.0
+Smartwatch,10000.0
+Charger,500.0
